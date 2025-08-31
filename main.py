@@ -22,7 +22,7 @@ Features:
   version="1.0.0",
   contact={
     "name": "Meenakshi Sunil",
-            "url": "https://www.linkedin.com/in/your-linkedin",  
+            "url": "",  
     "email": "meenakshisunil80@gmail.com"
   },
   license_info={
